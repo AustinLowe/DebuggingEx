@@ -1,0 +1,22 @@
+c:\users\rfreeman\documents\visual studio 2015\Projects\COMP1030\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+c:\users\rfreeman\documents\visual studio 2015\Projects\COMP1030\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+c:\users\rfreeman\documents\visual studio 2015\Projects\COMP1030\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+c:\users\rfreeman\documents\visual studio 2015\Projects\COMP1030\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+c:\users\rfreeman\documents\visual studio 2015\Projects\COMP1030\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+c:\users\rfreeman\documents\visual studio 2015\Projects\COMP1030\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+c:\users\rfreeman\documents\visual studio 2015\Projects\COMP1030\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+c:\users\rfreeman\documents\visual studio 2015\Projects\COMP1030\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+c:\users\rfreeman\documents\visual studio 2015\Projects\COMP1030\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\RFreeman\Documents\Visual Studio 2015\Projects\COMP1030\Assignment1\Assignment1\obj\Debug\Assignment1.Form2.resources
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 14\Broken\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 14\Broken\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 14\Broken\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Austin\Desktop\School\COMP 1030 [Programming Fundamentals]\Week 14\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Austin\Desktop\School\COMP 1030 [Programming Fundamentals]\Week 14\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Austin\Desktop\School\COMP 1030 [Programming Fundamentals]\Week 14\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Austin\Desktop\School\COMP 1030 [Programming Fundamentals]\Week 14\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Desktop\School\COMP 1030 [Programming Fundamentals]\Week 14\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\Austin\Desktop\School\COMP 1030 [Programming Fundamentals]\Week 14\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Austin\Desktop\School\COMP 1030 [Programming Fundamentals]\Week 14\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+C:\Users\Austin\Desktop\School\COMP 1030 [Programming Fundamentals]\Week 14\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Austin\Desktop\School\COMP 1030 [Programming Fundamentals]\Week 14\Assignment1\bin\Debug\Assignment1.pdb
