@@ -42,7 +42,7 @@ namespace Assignment1
 
 
             // calc & display average
-            Int32 avg = comp1030 + comp1002 + comp1051 + comp1053 + comm1016 + gned1005 / 6;
+            Int32 avg = (comp1030 + comp1002 + comp1051 + comp1053 + comm1016 + gned1005) / 6;
             lblAverage.Text = avg.ToString();
             lblOverallGrade.Text = SetGrade(avg);
         }
